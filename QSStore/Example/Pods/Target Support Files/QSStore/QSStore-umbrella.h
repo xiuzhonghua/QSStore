@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "QSStore.h"
 
 FOUNDATION_EXPORT double QSStoreVersionNumber;
 FOUNDATION_EXPORT const unsigned char QSStoreVersionString[];
