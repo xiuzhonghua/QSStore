@@ -1,0 +1,6 @@
+framework module QSStore {
+  umbrella header "QSStore-umbrella.h"
+
+  export *
+  module * { export * }
+}

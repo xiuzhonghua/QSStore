@@ -1,0 +1,22 @@
+{
+  "name": "QSStore",
+  "version": "0.1.0",
+  "summary": "A short description of QSStore.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/qingsongyan2022@163.com/QSStore",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qingsongyan2022@163.com": "1362739284@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/qingsongyan2022@163.com/QSStore.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "QSStore/Classes/**/*"
+}
